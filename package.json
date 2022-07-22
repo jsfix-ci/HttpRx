@@ -32,7 +32,7 @@
   "homepage": "https://github.com/JasonRammoray/HttpRx#readme",
   "dependencies": {
     "request": "^2.88.2",
-    "rxjs": "^6.5.5"
+    "rxjs": "^7.5.6"
   },
   "engines": {
     "node": ">= 10"
